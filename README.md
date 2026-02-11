@@ -25,4 +25,4 @@ Nesta versão atualizada, implementei mecânicas avançadas para tornar o jogo m
 4.  Após o fim do turno do P1, o **Jogador 2** assume, seguido pelo **Jogador 3**.
 5.  Ao final de todas as rodadas, o ranking mostrará quem foi o grande vencedor.
 
-Desenvolvido por: Alberto Santos.
+Desenvolvido por: Carlos Melo.
