@@ -1,6 +1,6 @@
 # 🕹️ Detona Ralph - Game JS
 
-Este projeto faz parte do portfólio de desafios da DIO (Digital Innovation One). É um projeto de um jogo de "clique no alvo" inspirado no personagem Detona Ralph. O objetivo é acertar o Ralph o maior número de vezes possível dentro do tempo limite, agora com suporte para múltiplos jogadores e sistema de vidas.
+Este é um projeto de um jogo de "clique no alvo" inspirado no personagem Detona Ralph. O objetivo é acertar o Ralph o maior número de vezes possível dentro do tempo limite, agora com suporte para múltiplos jogadores e sistema de vidas.
 
 ## 🚀 Novas Funcionalidades
 
